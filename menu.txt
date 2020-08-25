@@ -2,3 +2,5 @@ my menu
 
 cake
 milk
+juice
+pizza
