@@ -4,3 +4,6 @@ cake
 milk
 juice
 pizza
+egg
+fish
+mutton
